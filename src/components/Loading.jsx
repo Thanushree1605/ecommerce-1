@@ -1,0 +1,3 @@
+export default function Loading() {
+  return <div className="loading-state"><span className="spinner"/><p>Finding good things for you...</p></div>
+}
